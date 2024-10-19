@@ -1,0 +1,17 @@
+h1{
+    border-bottom: 2px solid goldenrod;
+    border-right: 2px solid goldenrod;
+    width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 350px;
+    height: 200px;
+    margin: 10px;
+}
+.container{
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
